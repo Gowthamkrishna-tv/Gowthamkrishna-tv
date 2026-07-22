@@ -1,4 +1,4 @@
-# Hi 👋, I'm GK
+# Hi 👋, I'm Gowtham
 
 ### 🚀 Aspiring AI Engineer | MERN Stack Developer
 
